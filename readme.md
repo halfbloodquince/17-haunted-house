@@ -1,16 +1,18 @@
-# Three.js Journey
+# Haunted House
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+A 3d haunted house. Part 17 of the Threejs Journey.
 
-``` bash
-# Install dependencies (only the first time)
+![Moon](/src/img/screenshot.png "moon")
+
+## Demo
+
+https://17-haunted-house-opal.vercel.app/
+
+```bash
+# Install dependencies
 npm install
 
-# Run the local server at localhost:8080
+# Run the local server
 npm run dev
 
-# Build for production in the dist/ directory
-npm run build
 ```
