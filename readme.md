@@ -2,6 +2,8 @@
 
 A 3d haunted house. Part 17 of the Threejs Journey.
 
+Made following a course. Added the moon using techniques learned in previous lessons.
+
 ![Moon](/src/img/screenshot.png "moon")
 
 ## Demo
